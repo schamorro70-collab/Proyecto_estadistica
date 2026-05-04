@@ -1,0 +1,162 @@
+---
+title: "Historia y Conceptos fundamentales de la Estadística"
+author: "Elizabeth Samara Chamorro"
+format: html
+editor: visual
+---
+
+## Historia y Conceptos fundamentales de la Estadística
+
+## Elizabeth Samara Chamorro
+
+## Estadística
+
+## Dagoberto Salgado Horta
+
+3 de may. de 26
+
+**Origen de la estadística:**
+
+La estadística tiene sus raíces en la necesidad de las sociedades antiguas de registrar y organizar información para gobernar, administrar recursos y planificar actividades. El término proviene del latín *statisticum collegium* ("consejo de Estado") y fue acuñado formalmente en 1749 por el alemán Gottfried Achenwall, quien lo definió como la "ciencia del Estado"
+
+**Fuente**: Oficina Nacional de Estadística (ONE). (2025). *Del papiro al algoritmo: Celebremos el Día Mundial de la Estadística*. Recuperado de <http://blog.one.gob.do/index.php/del-papiro-al-algoritmo-celebremos-el-dia-mundial-de-la-estadistica/>
+
+**Evolución histórica:**
+
+Su evolución pasa de simples recuentos y registros administrativos en la antigüedad, a una disciplina matemática rigurosa en la época moderna, hasta convertirse en una herramienta fundamental para el análisis de datos y la toma de decisiones en la actualidad.
+
+**Fuente:** Instituto Nacional de Estadística (INE). ¿Cómo surge la Estadística?. Recuperado de <https://www.ine.es/explica/docs/historia_estadistica.pdf>
+
+**Aportes de civilizaciones antiguas**
+
+Diversas culturas desarrollaron sistemas para registrar datos de población, tierras, producción y riqueza, sentando las bases prácticas de la estadística.
+
+-   **Mesopotamia y Babilonia**: Usaban tablillas de arcilla para registrar producción agrícola y comercio, desde el 5000 a.C..
+
+-   **Egipto**: Realizaban censos desde el 3050 a.C. para distribuir tierras, calcular impuestos y planificar obras como las pirámides.
+
+-   **China**: En el 2238 a.C., el emperador Yao ordenó un censo que incluía datos agrícolas, industriales y comerciales.
+
+-   **Grecia**: Los censos servían para determinar impuestos, servicio militar y derechos políticos.
+
+-   **Roma**: Establecieron censos quinquenales y registros de nacimientos y defunciones, con un sistema administrativo muy organizado.
+
+-   **India**: En el siglo IV a.C., el tratado *Arthasástra* de Kautilya incluía principios para la recolección de datos económicos y sociales.
+
+-   **Civilización Inca**: Usaban los *quipus* (sistemas de cuerdas y nudos) para registrar información numérica y estadística.
+
+**Fuente**: Oficina Nacional de Estadística (ONE). (2025). *Del papiro al algoritmo: Celebremos el Día Mundial de la Estadística*. Recuperado de <http://blog.one.gob.do/index.php/del-papiro-al-algoritmo-celebremos-el-dia-mundial-de-la-estadistica/>
+
+**Desarrollo en la edad moderna**
+
+A partir del siglo XVII, la estadística dejó de ser solo descriptiva y comenzó a tener bases matemáticas, con el desarrollo de la teoría de probabilidades y métodos de análisis.
+
+-   **Siglo XVII**: John Graunt publicó en 1662 *Observaciones naturales y políticas sobre las listas de mortalidad*, creando las primeras tablas de vida y fundando la demografía estadística. William Petty desarrolló la "aritmética política" para analizar datos sociales y económicos.
+
+-   **Siglos XVIII-XIX**: Se formalizaron conceptos clave: la ley de los grandes números (Jacob Bernoulli, 1713), la distribución normal (Abraham de Moivre, Carl Friedrich Gauss), el método de los mínimos cuadrados (Legendre, Gauss) y la teoría de errores (Laplace).
+
+-   **Finales del XIX y principios del XX**: Francis Galton y Karl Pearson transformaron la estadística en una disciplina matemática, introduciendo la correlación, la regresión y el análisis de variables. Ronald A. Fisher desarrolló el diseño de experimentos, el análisis de varianza y la inferencia estadística. Jerzy Neyman y Egon Pearson formalizaron la teoría de pruebas de hipótesis.
+
+**Fuente** Portal Estadística Aplicada. Historia de la Estadística: Contribuciones de científicos. Recuperado de <https://www.estadistica.net/Historia/historia.html>
+
+**Importancia en la actualidad**
+
+Hoy en día, la estadística es una herramienta indispensable en casi todas las áreas del conocimiento y la actividad humana, permitiendo transformar datos en información útil para tomar decisiones fundamentadas.
+
+-   **Ciencia**: Es el lenguaje básico para diseñar experimentos, validar hipótesis y obtener conclusiones rigurosas.
+
+-   **Política y gestión pública**: Ayuda a evaluar políticas, asignar recursos y planificar el desarrollo social y económico.
+
+-   **Economía y negocios**: Se usa para análisis de mercado, predicción de tendencias, gestión de riesgos y optimización de procesos.
+
+-   **Salud**: Fundamental en epidemiología, ensayos clínicos y evaluación de tratamientos.
+
+-   **Tecnología**: Es la base del Big Data, la inteligencia artificial y el aprendizaje automático, permitiendo procesar y entender grandes volúmenes de información.
+
+**Fuente**: Wikipedia. (2026). *Estadística*. Recuperado de <https://es.wikipedia.org/wiki/Estadistica>
+
+**Estadística Descriptiva:**
+
+La estadística descriptiva se enfoca en la recopilación, organización, presentación y síntesis de datos para revelar sus características principales. Su propósito no es hacer generalizaciones más allá del conjunto de datos analizado, sino proporcionar una visión clara y concisa de la información disponible. Para ello, emplea herramientas visuales como tablas y gráficos, y cálculos numéricos como la media, mediana, moda y medidas de variabilidad.
+
+**Aplicación en la Administración Pública**: Un gobierno local busca entender la estructura etaria de su personal. Para lograrlo, recoge la fecha de nacimiento de todos sus funcionarios y luego procesa estos datos para crear una distribución de frecuencias de edades, un cálculo de la edad promedio y la identificación del grupo de edad más frecuente. Esta información descriptiva es crucial para que el departamento de recursos humanos desarrolle políticas de personal adecuadas.
+
+**Estadística Inferencial:**
+
+A diferencia de la descriptiva, la estadística inferencial permite extraer conclusiones y realizar predicciones o estimaciones sobre una población más amplia, partiendo únicamente de la información recabada de una porción (muestra) de esa población. Se apoya fuertemente en la teoría de la probabilidad para cuantificar la incertidumbre asociada a estas generalizaciones.
+
+**Aplicación en la Administración Pública**: El Ministerio de Salud desea estimar el nivel de aceptación de una nueva campaña de vacunación entre la ciudadanía. Para evitar encuestar a todos, selecciona un grupo reducido pero representativo de habitantes. A partir de las respuestas de este grupo, el ministerio puede proyectar, con un margen de confianza específico, la opinión general de la población respecto a la vacunación.
+
+**Población:**
+
+En el contexto estadístico, la población se refiere a la totalidad de elementos, sujetos o mediciones que comparten una característica de interés y que constituyen el foco de un estudio. Puede ser un conjunto finito o infinito, y no se limita a personas, abarcando también objetos, eventos o cualquier unidad de análisis sobre la que se busca conocimiento.
+
+**Aplicación en la Administración Pública**: Si una entidad gubernamental se propone analizar el rendimiento académico en el nivel secundario a nivel nacional, su población de interés sería "todos los estudiantes matriculados en secundaria en el país".
+
+**Muestra:**
+
+Una muestra es un subgrupo cuidadosamente seleccionado y representativo extraído de una población más grande. Se utiliza cuando el estudio de la población completa es inviable por razones de tiempo, costo o logística. La validez de las inferencias estadísticas dependerá en gran medida de cuán bien esta muestra refleje las características de la población original.
+
+**Aplicación en la Administración Pública**: Para el estudio del rendimiento académico secundario, en lugar de evaluar a cada estudiante, el Ministerio de Educación podría seleccionar una "muestra de 5,000 estudiantes de secundaria de distintas escuelas y regiones" para sus pruebas.
+
+**Parámetro:**
+
+Un parámetro es un valor numérico que describe una característica específica y fija de la **población completa**. Aunque su valor exacto suele ser desconocido, es la "verdadera" medida que se intenta estimar. Ejemplos comunes incluyen la media poblacional (μ), la varianza poblacional (σ2) o la proporción poblacional (P).
+
+**Aplicación en la Administración Pública**: Si el Departamento Nacional de Estadística busca determinar el "porcentaje exacto de hogares colombianos que viven por debajo de la línea de pobreza" en un año dado, este porcentaje real y único para la totalidad de los hogares del país sería un parámetro.
+
+**Estadístico:**
+
+Un estadístico (o estimador) es una medida numérica calculada a partir de los datos de una **muestra**. Sirve como una aproximación o estimación de un parámetro poblacional desconocido. Ejemplos incluyen la media muestral (xˉ), la varianza muestral (s2) o la proporción muestral (p\^​).
+
+**Aplicación en la Administración Pública**: Para estimar el "porcentaje exacto de hogares colombianos que viven por debajo de la línea de pobreza", el DANE podría encuestar una muestra de 10,000 hogares y calcular el porcentaje de estos que se encuentran bajo esa línea. Este porcentaje calculado a partir de la muestra es un estadístico y se usa para inferir el parámetro poblacional.
+
+**Muestreo:**
+
+El muestreo es la metodología y las técnicas empleadas para seleccionar los elementos que compondrán una muestra a partir de una población. Su finalidad primordial es asegurar que la muestra obtenida sea lo más fidedigna posible a la población original, permitiendo así que los hallazgos muestrales sean extrapolables con un grado de confianza medible. Existen diversas estrategias de muestreo, como el aleatorio simple, el estratificado, el sistemático o el por conglomerados.
+
+**Aplicación en la Administración Pública**: Una dependencia gubernamental encargada de evaluar la calidad del agua en todo el territorio nacional podría definir un "plan de muestreo" para seleccionar puntos de recolección de agua. Este plan podría incluir la selección aleatoria de cuerpos de agua, dividiendo el país en regiones (estratos) y luego tomando muestras dentro de cada una, o incluso utilizando un muestreo sistemático en una red de monitoreo existente.
+
+**Sesgo:**\
+El sesgo en estadística se refiere a cualquier factor que introduce una diferencia sistemática y persistente entre el resultado de un estudio (obtenido de una muestra) y el valor verdadero que se daría si se estudiara toda la población. No es un error aleatorio, sino una desviación consistente que puede surgir de deficiencias en el diseño del estudio, la selección de la muestra, la recolección o el análisis de los datos, llevando a conclusiones erróneas.
+
+**Aplicación en la Administración Pública**: Una oficina de planeación urbana desea evaluar la opinión ciudadana sobre un nuevo proyecto de infraestructura. Si para ello distribuye la encuesta solo a través de un grupo de WhatsApp de líderes comunitarios que tienen una postura ya conocida a favor del proyecto, los resultados obtenidos tendrán un "sesgo de selección". La opinión de los ciudadanos no representados en ese grupo o con posturas diferentes no será considerada, llevando a una sobrestimación del apoyo al proyecto.
+
+# Concepto de variable en estadística
+
+Una variable en estadística es una característica, cualidad o atributo que puede cambiar o tomar diferentes valores dentro de un grupo de personas, objetos o situaciones. Las variables permiten recolectar, organizar y analizar información para realizar estudios y tomar decisiones.
+
+# Clasificación de las variables según su naturaleza
+
+-   Variables cualitativas: Son aquellas que describen cualidades o categorías.
+
+    -   Nominales: No tienen un orden específico. Ejemplo: género, estado civil.
+
+    -   Ordinales: Tienen un orden o jerarquía. Ejemplo: nivel educativo, nivel de satisfacción.
+
+-   Variables cuantitativas: Son aquellas que se expresan mediante números.
+
+    -   Discretas: Se pueden contar y toman valores enteros. Ejemplo: número de empleados.
+
+    -   Continuas: Pueden tomar valores decimales. Ejemplo: peso, tiempo, temperatura.
+
+# Escalas de medición
+
+-   Nominal: Clasifica datos en categorías sin orden.
+
+-   Ordinal: Clasifica datos con un orden o jerarquía.
+
+-   Intervalo: Los valores tienen intervalos iguales, pero no existe un cero absoluto.
+
+-   Razón: Tiene intervalos iguales y un cero absoluto.
+
+# Tabla de variables
+
+| Variable | Tipo | Naturaleza | Escala de medición | Ejemplo en administración pública | Justificación |
+|----|----|----|----|----|----|
+| Género de los funcionarios | Cualitativa | Nominal | Nominal | Registro del género de empleados en una alcaldía | Se clasifica en categorías sin orden específico. |
+| Nivel de satisfacción ciudadana | Cualitativa | Ordinal | Ordinal | Encuesta de satisfacción sobre atención en hospitales públicos | Las respuestas tienen un orden, por ejemplo: malo, regular, bueno y excelente. |
+| Número de proyectos ejecutados | Cuantitativa | Discreta | Razón | Cantidad de obras públicas realizadas en un municipio | Se expresa en números enteros y puede contarse. |
+| Tiempo de atención al usuario | Cuantitativa | Continua | Razón | Minutos que tarda una entidad en atender a un ciudadano | Puede tomar valores con decimales y tiene cero absoluto. |
+| Temperatura de una oficina pública | Cuantitativa | Continua | Intervalo | Medición de temperatura en instalaciones gubernamentales | Los intervalos entre valores son iguales, pero el cero no indica ausencia de temperatura. |
+| Nivel educativo de empleados públicos | Cualitativa | Ordinal | Ordinal | Clasificación de estudios: bachiller, técnico, profesional, posgrado | Existe un orden jerárquico entre las categorías. |
